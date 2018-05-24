@@ -12,7 +12,9 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("TestBranch Edits");
-            Console.ReadLine;
+            Console.WriteLine("Master Branch Edits");
+
+         Console.ReadLine;
 
         }
     }
